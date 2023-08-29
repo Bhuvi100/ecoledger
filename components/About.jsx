@@ -10,15 +10,7 @@ const About = () => {
               What is Ecoledger ?
             </h2>
             <p class="mb-4">
-              We are strategists, designers and developers. Innovators and
-              problem solvers. Small enough to be simple and quick, but big
-              enough to deliver the scope you want at the pace you need. Small
-              enough to be simple and quick, but big enough to deliver the scope
-              you want at the pace you need.
-            </p>
-            <p>
-              We are strategists, designers and developers. Innovators and
-              problem solvers. Small enough to be simple and quick.
+The decentralized carbon registry and tokenization platform is a revolutionary solution for real-world carbon emission control. By leveraging blockchain technology and tokenization, it enables precise measurement, transparent tracking, and effective management of emissions. The decentralized registry ensures accuracy and accountability, while tokenization allows for trading carbon credits. Industries can measure footprints, set reduction targets, and trade credits, incentivizing emission reduction. This platform fosters collaboration among stakeholders and paves the way for a sustainable future.
             </p>
           </div>
           <div class=" gap-4 mt-8">
