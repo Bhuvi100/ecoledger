@@ -28,7 +28,7 @@ const Contact = () => {
                       Our Location
                     </h4>
                     <p class="text-body-color text-base">
-                      99 S.t Jomblo Park Pekanbaru 28292. Indonesia
+                      21 Coimbatore Tamilnadu 641008. India
                     </p>
                   </div>
                 </div>
@@ -50,7 +50,7 @@ const Contact = () => {
                       Phone Number
                     </h4>
                     <p class="text-body-color text-base">
-                      (+62)81 414 257 9980
+                      (+91)93 454 647 24
                     </p>
                   </div>
                 </div>
@@ -69,7 +69,7 @@ const Contact = () => {
                     <h4 class="text-dark mb-1 text-xl font-bold">
                       Email Address
                     </h4>
-                    <p class="text-body-color text-base">info@yourdomain.com</p>
+                    <p class="text-body-color text-base">ecoledger@gmail.com</p>
                   </div>
                 </div>
               </div>
